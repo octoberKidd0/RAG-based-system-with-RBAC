@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+faiss-cpu
+PyMuPDF
+pytesseract
+pillow
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+sentence-transformers
+tqdm
+python-docx
+openpyxl
